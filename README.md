@@ -11,6 +11,15 @@ TO use
 * `require 'superhero'` at the top of your file
 * somewhere in your code call `Superhero.power` to get a random superhero power
 
+List of Commands:
+* `Superhero.name` returns our superhero's name
+* `Superhero.alias` returns our superhero's alias
+* `Superhero.power` returns a superpower
+* `Superhero.alignment` returns a superhero's standing
+* `Superhero.nemesis` reveals the identity of our superhero's nemesis
+* `Superhero.weakness` reveals our superhero's weakness
+* `Superhero.describe` returns a string description of a super hero
+
 
 Notes
 
